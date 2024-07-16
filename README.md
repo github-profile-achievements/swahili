@@ -26,7 +26,7 @@ Unaweza chagua kuto-onyesha beji za mafanikio katika wasifu wako kwa kuenda kwen
 
 Baadhi ya mafanikio hayana toleo la msingi pekee, bali pia vyeo.
 
-| Mafanikio | Chaguomsingi | Shaba | Silver | Dhahabu |
+| Mafanikio | Chaguomsingi | Shaba | Fedha | Dhahabu |
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Bronze badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Silver badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Gold badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
 | | Nyota 16 | Nyota 128 | Nyota 512 | Nyota 4096 <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |

@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 # Orodha kamili ya beji zote za Mafanikio katika Wasifu wa GitHub
 
 #### Kuonyesha mafanikio yako kwenye wasifu wako ni hiari kabisa; kwa chaguo msingi, zinaweza kuonekana na mtu yeyote anayetazama wasifu wako wa umma.
